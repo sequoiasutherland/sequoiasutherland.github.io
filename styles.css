@@ -1,4 +1,26 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-family: Helvetica, sans-serif;
+}
+
+section {
+    margin: 3em 0;
+}
+
 .main-photo {
+    display: block;
+    margin: 0 auto;
     width: 800px;
     height: 500px;
     object-fit: cover;
