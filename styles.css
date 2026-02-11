@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #ffffed;
 }
 
 h1 {
@@ -24,4 +24,38 @@ section {
     width: 800px;
     height: 500px;
     object-fit: cover;
+}
+
+.main-section-left {
+    margin-left: 25px;
+    margin-right: auto;
+    border-radius: 30px;
+    padding: 40px;
+    width: 40%;
+    background-color: #e6ffec;
+}
+
+.main-section-right {
+    margin-left: auto;
+    margin-right: 25px;
+    border-radius: 30px;
+    padding: 40px;
+    width: 40%;
+    background-color: #e6ffec;
+}
+
+.main-section-center {
+    margin: 0 auto 40px auto;
+    border-radius: 30px;
+    padding: 40px;
+    width: 50%;
+    background-color: #e6ffec;
+}
+
+.main-photo-footer {
+    display: block;
+    margin: 0 auto;
+    padding: 100px;
+    width: 100px;
+    height: 100px;
 }
