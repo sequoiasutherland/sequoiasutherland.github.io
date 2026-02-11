@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: #ffffed;
 }
 
 h1 {
@@ -50,4 +50,12 @@ section {
     padding: 40px;
     width: 50%;
     background-color: #e6ffec;
+}
+
+.main-photo-footer {
+    display: block;
+    margin: 0 auto;
+    padding: 100px;
+    width: 100px;
+    height: 100px;
 }
